@@ -9,6 +9,7 @@
     </div>
 </template>
 <script>
+// some comment
 export default {
   data() {
     return {
