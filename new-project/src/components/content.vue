@@ -10,6 +10,7 @@
 </template>
 <script>
 // some comment
+// Working  tree clean
 export default {
   data() {
     return {
